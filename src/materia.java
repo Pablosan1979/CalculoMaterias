@@ -18,7 +18,6 @@ public class materia {
         // TODO code application logic here
         //mensaje de inicio para indicar que realiza el aplicativo
         System.out.println("Aplicacion que permite obtener el promedio de notas de acuerdo a la cantidad de estudiantes de una materia");
-        System.out.println("Bienvenidos");
         //creamos el metodo para hacer la conexion con el metodo main.
         int cantEst; //declaramos la variable cantidadEstutiantr
         int mat; //declaramos la variable mat= materia
